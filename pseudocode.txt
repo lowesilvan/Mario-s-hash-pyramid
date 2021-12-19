@@ -1,0 +1,3 @@
+Prompt user to enter height of the pyramid.
+check if height is an integer from 1 to 8, if not then repeat prompt.
+loop from 1 to entered height, on looping print space, hashes and them a newline.
